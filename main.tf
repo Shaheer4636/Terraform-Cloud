@@ -13,3 +13,5 @@ subnet_id = var.subnet_id
 tags = {
 	Name = "terraform-cloud-demo-server"
 }
+
+}
